@@ -22,7 +22,7 @@ Vite (Build Tool)
 Run the following command to clone the project:
 
 
-git clone https://github.com/your-username/e-commerce-frontend.git
+git clone https://github.com/vikram2211/e-shop.git
 cd e-commerce-frontend
 
 2️⃣ Install Dependencies
