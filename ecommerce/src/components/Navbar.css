@@ -1,0 +1,63 @@
+nav {
+    /* border: 1px solid white; */
+    background: black;
+    color: white;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+  }
+  .navbar h2{
+      color:#fff;
+      margin-top: 5px;
+  }
+  
+  nav ul {
+    /* border: 1px solid white; */
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    margin-top: 9px;
+    align-items: center;
+  }
+
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+  }
+  nav a:hover{
+    color: rgb(178, 179, 179);
+}
+  .cart-count {
+    position: absolute;
+    top: 5px;
+    right: 145px;
+    /* border: 1px solid green; */
+    background-color: rgb(244, 48, 48);
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .order-count {
+    position: absolute;
+    top: 5px;
+    right: 55px; /* Adjust based on layout */
+    background-color: rgb(48, 130, 244); /* Blue color for orders */
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  

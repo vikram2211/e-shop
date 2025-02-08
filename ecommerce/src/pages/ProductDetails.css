@@ -1,0 +1,38 @@
+
+
+.details {
+    text-align: center;
+    /* border: 1px solid red; */
+    border-radius: 1rem;
+    width: 500px;
+    /* height: 550px;  */
+    background-color: #fff;
+    margin: auto;
+    padding: 5px;
+  }
+  
+  .details img {
+    width: 300px;
+    margin-top: 10px;
+    border-radius: 1rem;
+  }
+  .details h2{
+      margin-top: 10px;
+  }
+  .details p{
+    margin-top: 20px;
+  }
+  .details span{
+      text-decoration: underline;
+  }
+  .cart_btn{
+    /* border: 1px solid red; */
+      margin-top: 20px;
+  }
+
+  .cart_btn:disabled {
+    background-color: #94a3b8;
+    /* cursor: not-allowed; */
+  }
+
+  
